@@ -1,0 +1,15 @@
+{
+  "name": "shorten_url_service",
+  "version": "1.0.0",
+  "description": "shortend url service in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kamal.s",
+  "license": "ISC",
+  "dependencies": {
+    "base62": "^2.0.1",
+    "mongodb": "^3.2.7"
+  }
+}
